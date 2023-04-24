@@ -9,4 +9,4 @@ The displayed words are in a foreign language, but it asks the user in english w
 
 Have 16 different language available
 
-Download folder, unzip code and import it to vscode. Run finalproject.java
+Download folder, unzip code and import it to vscode. Run finalproject.java and watch the magic occur
